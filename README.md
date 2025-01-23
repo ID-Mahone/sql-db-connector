@@ -41,7 +41,7 @@ To integrate the `SQLDB` class into your project:
 
 ## Usage
 
-### Step 1: Instantiate the SQLDB Class
+### Step 1: Create the SQLDB Class
 
 Create an instance of the `SQLDB` class by providing the required connection parameters:
 
